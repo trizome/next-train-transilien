@@ -1,0 +1,22 @@
+{
+  "name": "next-train-transilien",
+  "version": "1.0.0",
+  "description": "Todo: Insert description here!",
+  "main": "next-train-transilien.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "latest",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.7.0"
+  }
+}
