@@ -4,6 +4,8 @@ This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror
 
 Todo: NEXT-TRAIN-TRANSILIEN permet d'obtenir les horaires des prochains train SNCF Transilien en fonction d'une gare de depart et d'une gare d'arrivée.
 
+![Screenshot](screenshot.png)
+
 
 ## Using the module
 
