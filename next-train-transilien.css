@@ -1,0 +1,42 @@
+/*
+ *
+ * next-train-transilien
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */ 
+ .lineHour{
+    font-size: 17px;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+
+    color: #bbb;
+    border-bottom: 1px dotted #333;
+    vertical-align: middle;
+  }
+  .libDepart {
+     font-size: 17px;
+     font-family: "Roboto", Arial, Helvetica, sans-serif;
+     font-weight: 400;
+     line-height: 15px;
+     color: #bbb;
+   }
+ .libDirection {
+    font-size: 16px;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  .mission{
+    font-size: 15px;
+    color : #666
+  }
+
+ 
