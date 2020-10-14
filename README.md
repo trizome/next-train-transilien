@@ -2,7 +2,8 @@
 
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
-Todo: Insert description here!
+Todo: NEXT-TRAIN-TRANSILIEN permet d'obtenir les horaires des prochains train SNCF Transilien en fonction d'une gare de depart et d'une gare d'arrivée.
+
 
 ## Using the module
 
@@ -24,5 +25,6 @@ var config = {
 
 | Option           | Description
 |----------------- |-----------
-| `option1`        | *Required* DESCRIPTION HERE
-| `option2`        | *Optional* DESCRIPTION HERE TOO <br><br>**Type:** `int`(milliseconds) <br>Default 60000 milliseconds (1 minute)
+| `defaultURL`        | *Optional* url de www.horaires-de-trains.fr/ avec gare de départ et gare d'arrivé<br><br>**Type:** `string` <br>Default "https://www.horaires-de-trains.fr/prochains-departs-Stade_de_France_Saint_Denis-Chatelet_Les_Halles.html"
+| `libDepart`        | *Optional* Nom de la gare de départ<br><br>**Type:** `string` <br>Default "Stade de France Saint-Denis"
+| `libDirection`     | *Optional* Nom de la gare de destination<br><br>**Type:** `string` <br>Default "Châtelet les Halles"
