@@ -25,6 +25,6 @@ var config = {
 
 | Option           | Description
 |----------------- |-----------
-| `defaultURL`        | *Optional* url de www.horaires-de-trains.fr/ avec gare de départ et gare d'arrivé<br><br>**Type:** `string` <br>Default "https://www.horaires-de-trains.fr/prochains-departs-Stade_de_France_Saint_Denis-Chatelet_Les_Halles.html"
+| `defaultURL`        | *Optional* url de www.horaires-de-trains.fr/ avec gare de départ et gare d'arrivée<br><br>**Type:** `string` <br>Default "https://www.horaires-de-trains.fr/prochains-departs-Stade_de_France_Saint_Denis-Chatelet_Les_Halles.html"
 | `libDepart`        | *Optional* Nom de la gare de départ<br><br>**Type:** `string` <br>Default "Stade de France Saint-Denis"
 | `libDirection`     | *Optional* Nom de la gare de destination<br><br>**Type:** `string` <br>Default "Châtelet les Halles"
